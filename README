@@ -1,3 +1,4 @@
 复旦大学编译原理荣誉课程 hw1
 
 - Makefile 里只需要修改 table 和 interp 相关的 target 就行，其他的不要动！！！
+- 默认 make -s 执行，如果 make -s 失败，转为 make 定位失败操作
